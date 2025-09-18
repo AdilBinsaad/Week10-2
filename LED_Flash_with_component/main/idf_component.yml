@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/AdilBinsaad/Wee10-1.git    # เปลี่ยนเป็น url ที่นักศึกษา push ไว้บน git
+    path: 66030301/LED

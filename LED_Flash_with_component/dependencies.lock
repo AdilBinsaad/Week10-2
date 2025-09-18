@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: 46a31f5de702ae9f47f6a2b6435c48eff074cf169fbd9826e7d87c88d8c5f341
+    dependencies: []
+    source:
+      git: https://github.com/AdilBinsaad/Wee10-1.git
+      path: 66030301/LED
+      type: git
+    version: 943109bf0dc4cff5a9c98a879bd47f172c064ad1
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: dc656f2cfffe338e8e439f46ca2d1a061f2e7c5e7bc6abf69a182c8011434634
+target: esp32
+version: 2.0.0
